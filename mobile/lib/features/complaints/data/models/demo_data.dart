@@ -1,7 +1,8 @@
-/// ⚠️  DEMO DATA — NOT connected to a real backend
+/// DEMO DATA — NOT connected to a real backend
 ///
 /// All data in this file is fictional and used only for UI demonstration
 /// during Phase 1. It will be replaced with real API calls in Phase 3.
+library;
 
 enum ComplaintStatus {
   pending,

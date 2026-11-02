@@ -273,7 +273,7 @@ class ProfileScreen extends StatelessWidget {
                         color: AppTheme.tealAccent)
                     : Chip(
                         label: const Text('Phase 8',
-                            style: const TextStyle(fontSize: 10)),
+                            style: TextStyle(fontSize: 10)),
                         backgroundColor:
                             AppTheme.borderGray200,
                         padding: EdgeInsets.zero,

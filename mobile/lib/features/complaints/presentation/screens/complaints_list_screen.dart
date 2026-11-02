@@ -170,7 +170,7 @@ class _ComplaintsListScreenState extends State<ComplaintsListScreen> {
                       AppTheme.sp32,
                     ),
                     itemCount: complaints.length,
-                    separatorBuilder: (_, __) =>
+                    separatorBuilder: (_, _) =>
                         const SizedBox(height: AppTheme.sp12),
                     itemBuilder: (context, i) {
                       final c = complaints[i];
